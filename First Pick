@@ -1,0 +1,15 @@
+<html>
+<title>ASI Developer Team</title>
+<head>
+<style>
+#red-box {
+  background-color:Red;
+  width:100px;
+  height:100px;
+}
+</style>
+</head>
+<body>
+<div id="red-box"></div>
+</body>
+</html>
